@@ -1,0 +1,9 @@
+*{
+    font-family: 'Open Sans';
+}
+.regcontain--hidden{
+    display:none;
+}
+.msg{
+    color: rgba(221, 5, 5, 0.474);
+}
